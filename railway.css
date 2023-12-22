@@ -1,0 +1,408 @@
+.menu ul{
+    margin-left: 200px;
+    margin-top: -80px;
+    font-size: 15px;
+    list-style: none;
+
+}
+.menu ul li a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.pic2{
+    margin-left: 1400px;
+    margin-top: -70px;
+    width: 100px;
+    height: 100px;
+}
+.pic2 img{
+    height: 98px;
+}
+.menu2 ul{
+list-style: none;
+display: flex;
+margin-left: 270px;
+margin-top: -30px;
+font-size: 15px;
+position: sticky;
+
+}
+.menu2 ul li a{
+    margin-left: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.pic3{
+    
+    width: 1400px;
+    height: 200px;
+}
+.box{
+    width: 600px;
+    height: 470px;
+    background-color:white;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 50px;
+    /* mix-blend-mode: lighten; */
+}
+.box i{
+    color: white;
+    margin-left: 0px;
+    margin-top: 1px;
+    background-color:rgba(0, 0, 255, 0.803);
+    padding:10px;
+    width: 270px;
+    height: 30px;
+    display: grid;
+    place-items: center;
+    font-size: 20px;
+}
+.dude {
+    margin-left: 1000px;
+  color:blue ;
+}
+.date{
+    margin-top: -273px;
+
+    margin-left: 350px;
+}
+.date input{
+    padding: 5px 23px;
+    font-size: 17px;
+}
+.one a{
+    margin-top:400px;
+    margin-left: 360px;
+    background-color: green;
+    color: black;
+     text-decoration: none;
+     padding: 2px;
+}
+.one a:hover{
+    color: white;
+}
+.two{
+    margin-top: 430px;
+    text-align: center;
+    font-size: xx-large;
+}
+.head{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 130px;
+    background-color: white;
+    z-index: 1;
+
+}
+.home{
+    font-size: xx-large;
+    list-style: none; 
+    margin-left: 270px;
+    margin-top: -30px;
+}
+div.box2{
+    margin-left: 150px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+}
+div.box2:img{
+width: 50px;
+height: auto;
+margin-left: 20px;
+}
+div.para1{
+    padding: 15px;
+    text-align: center;
+    margin-top: -30px;
+}
+.box1 img para1:hover{
+    background-color: blue;
+}
+div.box3{
+    margin-left: 50px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box3:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para2{
+    padding: 15px;
+    text-align: center;
+    margin-top: -10px;
+}
+.box3img para2:hover{
+    background-color: blue;
+}
+div.box4{
+    margin-left: 50px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box4:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para3{
+    padding: 15px;
+    text-align: center;
+    margin-top: -10px;
+}
+div.box5{
+    margin-left: 50px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box5:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para4{
+    padding: 15px;
+    text-align: center;
+    margin-top: -10px;
+}
+div.box6{
+    margin-left: 50px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box6:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para5{
+    padding: 15px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 30px;
+}
+div.box7{
+    margin-right: 550px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box7:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para7{
+    padding: 15px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -360px;
+}
+div.box8{
+    margin-right: 550px;
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box8:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para8{
+    padding: 10px;
+    text-align: center;
+    margin-top: -3px;
+    margin-left: 420px;
+}
+div.box9{
+    /* margin-right: 550px; */
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box9:img{
+width:100px;
+height: 100px;
+/* margin-left: 50px; */
+}
+div.para9{
+    padding: 10px;
+    text-align: center;
+    margin-top: -3px;
+    margin-left: -200px;
+}
+div.box10{
+    /* margin-right: 550px; */
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box10:img{
+width:100px;
+height: 100px;
+/* margin-left: 50px; */
+}
+div.para10{
+    padding: 10px;
+    text-align: center;
+    margin-top: -3px;
+    margin-left: -100px;
+}
+div.box11{
+    /* margin-right: 550px; */
+    /* border: 2px solid black; */
+    float: left;
+    width: 200px;
+    height: 170px;
+}
+div.box11:img{
+width:100px;
+height: 100px;
+margin-left: 50px;
+}
+div.para11{
+    padding: 10px;
+    text-align: center;
+    margin-top: -3px;
+    margin-left: 25px;
+}
+.aaa{
+    width: 100%;
+    height: 1280px;
+    background-color:rgba(128, 128, 128, 0.373);
+    /* border: 2px solid black; */
+}
+div.gall1{
+    margin: 50px;
+    border: 5px solid black;
+    float: left;
+    width: 370px;
+
+}
+div.gall1 img{
+    width: 370px;
+    height: 200px;
+}
+div.paras1{
+    padding: 15px;
+/* text-align: center; */
+font-size: 19px ;
+
+}
+.abc{
+    background-color: white;
+}
+div.gall2{
+    margin: 50px;
+    border: 5px solid black;
+    float: left;
+    width: 370px;
+    margin-top: -1230px;
+    margin-left: 550px;
+
+}
+div.gall2 img{
+    width: 370px;
+    height: 225px;
+}
+div.paras2{
+    padding: 15px;
+/* text-align: center; */
+font-size: 19px ;
+
+}
+div.gall3{
+    margin: 50px;
+    border: 5px solid black;
+    float: left;
+    width: 370px;
+    margin-left: 1050px;
+    margin-top: -1230px;
+
+
+}
+div.gall3 img{
+    width: 370px;
+    height: 245px;
+}
+div.paras3{
+    padding: 15px;
+/* text-align: center; */
+font-size: 19px ;
+
+}
+div.gall4{
+    margin: 50px;
+    border: 5px solid black;
+    float: left;
+    width: 370px;
+    margin-top: -590px;
+
+}
+div.gall4 img{
+    width: 370px;
+    height: 200px;
+}
+div.paras4{
+    padding: 15px;
+/* text-align: center; */
+font-size: 19px ;
+
+}
+div.gall5{
+    margin: 50px;
+    border: 5px solid black;
+    float: left;
+    width: 370px;
+    margin-left: 70px;
+    margin-top: -590px;
+
+}
+div.gall5 img{
+    width: 370px;
+    height: 215px;
+}
+div.paras5{
+    padding: 15px;
+/* text-align: center; */
+font-size: 19px ;
+
+}
+.color{
+    width: 1500px;
+    height: 80px;
+    background-color: purple;
+}
+.icon a{
+    font-size: x-large;
+  margin-left: 30px;
+  color: white;
+}
+.icon{
+ margin-left: -300px;
+    padding-top: 17px;
+
+}
+.icon a:hover{
+    color: aqua;
+}
